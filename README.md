@@ -3,10 +3,10 @@
 # Setup
 Once you have checked out the project, run in /api:
 
-npm install mongodb
-npm install express --save
-npm install mongodb@4.1.0 --save (make sure it is this version)
-npm install multer --save
+npm install mongodb  
+npm install express --save  
+npm install mongodb@4.1.0 --save (make sure it is this version)  
+npm install multer --save  
 
 then in /ui/stepfulapplication
 
