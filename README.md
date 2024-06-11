@@ -43,8 +43,13 @@ NOTE:the 21st of june has availability for both Coach Kane and Coach Gao (there 
 # TO-DO
 
 -add checking for proper input, i.e. for rating to be a number, for properly formatted time
+
 -did not get to enforce making appointments exactly 2 hours long and having no overlap
+
 -the view apps button on each calendar icon does not properly display upcoming appointments for students
+
+-the booking time does not account for timezone
+
 -LOTS OF CSS UPDATES
 
 # Overall
