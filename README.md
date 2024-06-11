@@ -49,7 +49,7 @@ NOTE:the 21st of june has availability for both Coach Kane and Coach Gao (there 
 
 # Overall
 
-This project was lots of fun to work on, I look forward to hearing your feedback
+This project was lots of fun to work on, I look forward to hearing your feedback :)
 
 
 
